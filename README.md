@@ -23,7 +23,7 @@
 
 ### Setup
 You will need a C compiler(like GCC, MSVC or CLang) for setup.
-1 - Compile the project with : gcc main.c textengine.c filesystem.c ui.c -o cmdtexteditor.exe
-2 - Run exe with ./texteditor.exe or double click the created exe file.
+- 1 - Compile the project with : gcc main.c textengine.c filesystem.c ui.c -o cmdtexteditor.exe
+- 2 - Run exe with ./texteditor.exe or double click the created exe file.
 
 ### Thank you for downloading!
