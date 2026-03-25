@@ -14,7 +14,7 @@
 - UI : Renders user interface and file context for user.
 - Main: Brings all functions and operations and starts the editor. 
 
-##Controls
+## Controls
 - Tab : Switch between editor mode and file browser mode.
 - Arrow Keys : Horizontal and vertical cursor movement.
 - Enter : Add a newline in editor mode or open file/folder in file browser mode.
